@@ -8,7 +8,7 @@ Code written to clone the classic Chrome Dino game
 
 - Download or clone the repository
 ```
-git clone https://github.com/Tejas1510/Hacking-Scripts.git
+git clone https://github.com/Saup21/Chrome-Dino.git
 ```
 - Go to the directory
 - Run the index.html file
